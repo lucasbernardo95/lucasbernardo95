@@ -2,7 +2,7 @@
 
 [![Linkedin: Lucas Bernardo](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bernnardo/)
 [![instagram: Lucas Bernardo](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.bernnardo/)
-[![gmail: washington](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasbernardo95@gmail.com)
+[![gmail: Lucas Bernardo](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasbernardo95@gmail.com)
 
   <a align="center" href="https://lucasbernardo95.github.io">
       <p align="center">
