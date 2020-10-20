@@ -1,4 +1,3 @@
-### Hi there 👋
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/lucasbernardo95?color=red&logoColor=blue&style=plastic">
 
 [![Linkedin: Lucas Bernardo](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bernnardo/)
