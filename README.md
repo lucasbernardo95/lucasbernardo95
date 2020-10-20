@@ -3,6 +3,13 @@
 [![Linkedin: Lucas Bernardo](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-bernnardo/)
 [![instagram: Lucas Bernardo](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.bernnardo/)
 [![gmail: washington](https://img.shields.io/badge/-Gmail-d44638?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasbernardo95@gmail.com)
+
+  <a align="center" href="https://lucasbernardo95.github.io">
+      <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasbernardo95&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbernardo95&layout=compact&theme=tokyonight" alt="languages" height="165">
+      </p>
+  </a>
+
 <!--
 **lucasbernardo95/lucasbernardo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
